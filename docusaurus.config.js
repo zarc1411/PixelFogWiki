@@ -7,8 +7,8 @@ module.exports = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'zarc1411', // Usually your GitHub org/user name.
+  projectName: 'PixelFogWiki', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'My Site',
@@ -25,7 +25,7 @@ module.exports = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/zarc1411/PixelFogWiki',
           label: 'GitHub',
           position: 'right',
         },
@@ -85,7 +85,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/zarc1411/PixelFogWiki/tree/master/',
         },
         blog: {
           showReadingTime: true,
