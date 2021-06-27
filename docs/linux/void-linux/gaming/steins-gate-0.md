@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# How to install Steam improvement patch for Steins;Gate
+# How to install Steam improvement patch for Steins;Gate 0
 
 ## Introduction
 
