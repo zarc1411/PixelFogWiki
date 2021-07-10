@@ -49,6 +49,8 @@ And to launch I would just
 prime-run legendary launch 9d2d0eb64d5c44529cece33fe2a46482
 ```
 
+EDIT- On a new system it worked out of the box. I believe it's because Wine had updated to 6.12. Well if it doesn't launch OOTB you could try the steps below.
+
 But it didn't work out of the box. I first got some error where it would fail to verify my data. After a little bit of googling I found out that I could run it through proton as well. 
 
 [This commment](https://www.reddit.com/r/linux_gaming/comments/ncu4f3/gta_v_doesnt_launch_using_legendary_quits_after/gy77f1l?utm_source=share&utm_medium=web2x&context=3) mentioned that you need to add ``PlayGTAV.exe`` in steam. I then looked up how to add it to steam. Turns out its pretty simple
